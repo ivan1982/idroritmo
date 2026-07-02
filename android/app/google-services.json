@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "740962055045",
+    "project_id": "idroritmo",
+    "storage_bucket": "idroritmo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740962055045:android:dc93c4f73792ccc51b0aec",
+        "android_client_info": {
+          "package_name": "com.example.idroritmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740962055045-s9sbhnvu8gkl2uq52vq17if844bbtu1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idroritmo",
+            "certificate_hash": "5f8201eea4b381101015ca16a92e5cb326f5ad64"
+          }
+        },
+        {
+          "client_id": "740962055045-763aibf5rd7v2hcfnupg0vjg2kb8jknc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0U8Xdjx8RqOvY8-Tacj72Tzc2mX3sjOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740962055045-763aibf5rd7v2hcfnupg0vjg2kb8jknc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
